@@ -6,7 +6,7 @@ This is the official repo for our CIKM 2022 long paper "WebUltron: An Ultimate R
 
 In this work, we propose WebUltron, an ultimate retriever on webpages under the model-centric paradigm, which is built on generative language models with a transformer-based encoder-decoder structure. Specifically, we regard document retrieval as a sequence-to-sequence task, which is fed with a query and is asked to output a docid. The comparison among Sparse Retrieval, Dense Retrieval, and WebUltron is visualized as follows:
 
-<img src="./figures/model_image.png" width="80%">
+<img src="./figures/model_image.png" width="100%">
 
 ## Data preparation
 
