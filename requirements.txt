@@ -1,0 +1,5 @@
+numpy==1.21.2
+gensim==3.8.1
+pytorch==1.7.1+cu110
+datasets==1.18.4
+transformers==4.18.0
