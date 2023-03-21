@@ -89,6 +89,15 @@ If you find this repo useful, please consider citing our work:
 
 ```
 @inproceedings{zhou2022Ultron,
-
+author    = {Yujia Zhou and
+               Jing Yao and
+               Zhicheng Dou and
+               Ledell Wu and
+               Peitian Zhang and
+               Ji{-}Rong Wen},
+  title     = {Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer},
+  journal   = {CoRR},
+  volume    = {abs/2208.09257},
+  year      = {2022}
 }
 ```
