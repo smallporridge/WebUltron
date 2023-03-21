@@ -1,6 +1,6 @@
 # WebUltron
 
-This is the official repo for our CIKM 2022 long paper "WebUltron: An Ultimate Retriever on Webpages under the Model-centric Paradigm".
+This is the official repo for "WebUltron: An Ultimate Retriever on Webpages under the Model-centric Paradigm".
 
 ## Quick Tour 
 
