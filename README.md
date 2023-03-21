@@ -1,10 +1,10 @@
-# WebUltron
+# Ultron
 
-This is the official repo for "WebUltron: An Ultimate Retriever on Webpages under the Model-centric Paradigm".
+This is the official repo for "Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer".
 
 ## Quick Tour 
 
-In this work, we propose WebUltron, an ultimate retriever on webpages under the model-centric paradigm, which is built on generative language models with a transformer-based encoder-decoder structure. Specifically, we regard document retrieval as a sequence-to-sequence task, which is fed with a query and is asked to output a docid. The comparison among Sparse Retrieval, Dense Retrieval, and WebUltron is visualized as follows:
+In this work, we propose Ultron, an ultimate retriever on webpages under the model-centric paradigm, which is built on generative language models with a transformer-based encoder-decoder structure. Specifically, we regard document retrieval as a sequence-to-sequence task, which is fed with a query and is asked to output a docid. The comparison among Sparse Retrieval, Dense Retrieval, and WebUltron is visualized as follows:
 
 <img src="./figures/model_image.png" width="100%">
 
@@ -88,7 +88,7 @@ python test_t5.py --encoding pq --scale top_300k
 If you find this repo useful, please consider citing our work:
 
 ```
-@inproceedings{zhou2022WebUltron,
+@inproceedings{zhou2022Ultron,
 
 }
 ```
